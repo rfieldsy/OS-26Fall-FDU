@@ -1,10 +1,10 @@
-# OS-25Fall-FDU
+# OS-26Fall-FDU
 
-Lab repository for OS Fall 2025 at Fudan University
+Lab repository for OS Fall 2026 at Fudan University
 
-这是复旦大学 2025 年秋季学期《操作系统（H）》课程的配套实验内容。我们将建立一个基于 ARM 架构的简易教学操作系统。
+这是复旦大学 2026 年秋季学期《操作系统（H）》课程的配套实验内容。我们将建立一个基于 ARM 架构的简易教学操作系统。
 
-[实验文档](https://osh2025.fducslg.com/)
+[实验文档](https://osh2026.fducslg.com/)
 
 暂定的实验内容将包括：
 
@@ -20,7 +20,7 @@ Lab repository for OS Fall 2025 at Fudan University
 
 Reference:
 
-- [去年的实验](https://github.com/FDUCSLG/OS-24Fall-FDU/)
+- [去年的实验](https://github.com/FDUCSLG/OS-25Fall-FDU/)
 
 - [Arm® Architecture Reference Manual](https://cs140e.sergio.bz/docs/ARMv8-Reference-Manual.pdf)
 - [Arm® Instruction Set Reference Guide](https://ipads.se.sjtu.edu.cn/courses/os/reference/arm_isa.pdf)
